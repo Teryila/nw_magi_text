@@ -1,0 +1,21 @@
+Flask Twilio SMS Forwarding
+This Flask application demonstrates forwarding received SMS messages to a specified phone number using Twilio.
+
+Prerequisites
+Python installed
+Twilio account SID and Auth Token
+Flask and Twilio Python library installed
+Setup
+Clone the repository and navigate to the project directory.
+Install dependencies using pip install -r requirements.txt.
+Update app.py with your Twilio account SID, Auth Token, and phone numbers.
+Run the application with python app.py.
+Usage
+Visit http://127.0.0.1:5000/ in your browser.
+Send a message using the provided form.
+The message will be forwarded to the specified phone number using Twilio.
+Configuration
+Update the Twilio account SID, Auth Token, and phone numbers in app.py.
+
+License
+This project is licensed under the MIT License.
