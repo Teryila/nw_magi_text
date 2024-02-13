@@ -11,8 +11,8 @@ account_sid = 'ACb131f71e68fc691bdefce2fb9420b131'
 auth_token = 'your_auth_token'
 
 # Update the first and second phone numbers
-first_phone_number = '+2348100079433'  # Replace with your first phone number
-second_phone_number = '+2347039630505'  # Replace with your second phone number
+first_phone_number = '+02348888888899'  # Replace with your first phone number
+second_phone_number = '+23489shjjjj44'  # Replace with your second phone number
 
 def forward_message_to_nigeria(message_content):
     # Initialize Twilio Client
